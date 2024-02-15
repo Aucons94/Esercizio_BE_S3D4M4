@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56BF766-0C6E-4575-AD97-BD743A0CA3E3}|VenditaAuto\\VenditaAuto.csproj|c:\\users\\alessandro\\desktop\\back-end\\mese 1\\settimana 3\\giorno_4_pratica\\venditaauto\\venditaauto\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56BF766-0C6E-4575-AD97-BD743A0CA3E3}|VenditaAuto\\VenditaAuto.csproj|solutionrelative:venditaauto\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56BF766-0C6E-4575-AD97-BD743A0CA3E3}|VenditaAuto\\VenditaAuto.csproj|C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\VenditaAuto\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A56BF766-0C6E-4575-AD97-BD743A0CA3E3}|VenditaAuto\\VenditaAuto.csproj|solutionrelative:VenditaAuto\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\VenditaAuto\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "VenditaAuto\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\VenditaAuto\\Home.aspx.cs",
+              "RelativeToolTip": "VenditaAuto\\Home.aspx.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwEkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:16:15.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\VenditaAuto\\Home.aspx",
+              "RelativeDocumentMoniker": "VenditaAuto\\Home.aspx",
+              "ToolTip": "C:\\Users\\Alessandro\\Desktop\\Back-end\\Mese 1\\Settimana 3\\Giorno_4_pratica\\VenditaAuto\\VenditaAuto\\Home.aspx",
+              "RelativeToolTip": "VenditaAuto\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-15T13:45:29.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
